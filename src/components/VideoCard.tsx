@@ -6,7 +6,7 @@ export function VideoCard(){
                 <img className={"rounded-full w-16 h-16"} src="/photo.jpg"></img>
             </div>
             <div className="col-span-10
-            pl-2
+            pl-0
             font-cursors
             
             text-lg
@@ -18,7 +18,7 @@ export function VideoCard(){
             <div className="col-span-1 pl-5">
                 abhi
             </div>
-            <div className="col-span-12 pl-5 txt-gray-500 text-base">
+            <div className="col-span-12 pl-25 text-gray-600 text-base">
                 action.drama||45min
             </div>    
         </div>
