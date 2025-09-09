@@ -18,8 +18,8 @@ export function VideoCard(){
             <div className="col-span-1 pl-5">
                 abhi
             </div>
-            <div className="col-span-12 pl-5">
-                action . drama
+            <div className="col-span-12 pl-5 txt-gray-500 text-base">
+                action.drama||45min
             </div>    
         </div>
     </div>
