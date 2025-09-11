@@ -20,7 +20,7 @@ export function VideoCard(props:any){
             <div className="col-span-10 pl-6">
                 {props.author}
             </div>
-            <div className="col-span-12 pl-25 text-gray-600 text-base">
+            <div className="col-span-12 pl-29 text-gray-600 text-base">
                 {props.views} | {props.timestamp}
             </div>
           </div> 
