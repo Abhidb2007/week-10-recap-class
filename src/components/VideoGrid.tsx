@@ -1,3 +1,4 @@
+import React from "react";
 const VIDEOS = [
   {
     title: "how to learn in coding | code with me",
@@ -33,7 +34,8 @@ export const VideoGrid = () => {
             image={video.image}   {/* ✅ fixed */}
             views={video.views}
             timestamp={video.timestamp}
-          />
+            />
+          
         </div>
       ))}
     </div>
