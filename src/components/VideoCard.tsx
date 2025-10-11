@@ -6,7 +6,7 @@ export function VideoCard(props:any){
          <div className="col-span-2">
             <img className={"rounded-full w-15 h-15"} src="/thumb.jpg"></img>
          </div>
-          <div className="col-span-5
+          <div className="col-span-8
             pl-0
             font-cursors
             
